@@ -25,6 +25,12 @@ My work includes:
 
 The current research base contains more than **850,000 canonical minute bars across 14 futures contracts**.
 
+## Selected Project
+
+### [Financial Return Analysis](https://github.com/tstreller/financial-return-analysis)
+
+Public Python portfolio project analyzing ES and GC daily returns, volatility, correlation, confidence intervals, and simple hypothesis tests with an emphasis on transparent interpretation and research limitations.
+
 ## Currently Learning
 
 - Python
